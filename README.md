@@ -7,4 +7,5 @@
 - 😄 Pronouns: he/him
 
 Here's a cool bird I saw one time:
+
 <img src="https://user-images.githubusercontent.com/239754/183220207-11d1e32a-c87c-4f3b-b78b-8e7a15b99c48.JPG" alt="its an egret" width="300" height="400"/>
