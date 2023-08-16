@@ -8,4 +8,4 @@
 
 Here's a cool mushroom I saw one time:
 
-<img src="https://github.com/benmoss/benmoss/assets/239754/434f84cd-0e9d-4f45-b5ea-7b1a976ba081" alt="cora glabrata i believe?" width="300" height="400"/>
+[<img src="https://github.com/benmoss/benmoss/assets/239754/434f84cd-0e9d-4f45-b5ea-7b1a976ba081" alt="cora glabrata i believe?" width="300" height="400"/>](https://www.inaturalist.org/observations/175374733)
